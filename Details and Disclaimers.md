@@ -1,5 +1,5 @@
 # Enterprise-Network-Design-Project-Campus-Area-Network
-===============================================================================================
+============================================================================================
 
 **DETAILS OF THE PROJECT**
 
@@ -13,7 +13,7 @@ Additionally, to ensure smooth working even in case a critical network component
 Also, to protect the system in case of a natural disaster, there is a Disaster Recovery Plan to ensure that the data can be recovered. The DRP is located at a different location that is far away from the location of the campus.
 During the development of physical design, the devices required for the plan were chosen based on the probable number of users a particular classroom or office would have. For seamless streaming, Fiber optic cables are used for the communication between the buildings on the main campus and the Orange campus. For communication inside the building, Ethernet Cat6 cables were used and for DRP Ethernet CAT5 cables were used. 
 
-===============================================================================================
+===========================================================================================
 
 **DISCLAIMER**
 
